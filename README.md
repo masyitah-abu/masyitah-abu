@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masyitah-abu
-- 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning python, MATLAB and C++
+- 👀 I’m interested in Artificial Intelligence, machine learning and data science project
+- 🌱 I’m currently learning how to build databased for machine learning
 - 📫 How to reach me masyitah_abu@yahoo.com
 
 
