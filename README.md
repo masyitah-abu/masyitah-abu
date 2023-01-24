@@ -15,11 +15,6 @@
 - Research Assistant 
 - Lecturer
 
-### Supervision
-#### Bachelor
-
-#### Diploma
-
 ### Teaching
 #### Bachelor
 - [Data Structure & Algorithm](https://github.com/masyitah-abu/Data-Structure-and-Algorithm-in-Python)
@@ -33,14 +28,15 @@
 - Introduction Information Technology
 
 ### [Publication](https://scholar.google.com/citations?user=IOKYoSMAAAAJ&hl=en)
-### Workshop/Training
-### Award/Paten
+
 ### Summarisation of my research work
 - Progamming Language
 - Signal Processing/Image Processing/NLP
 
 
 #### CONTACT INFORMATION
+
+HERE is my CV if you interested
 
 
 
