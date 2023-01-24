@@ -12,8 +12,9 @@
 - Bachelor's Degree in Electronic Engineering (Computer) | 2013-2017
 
 ### Working Experience 
-- Research Assistant 
-- Lecturer
+- Lecturer at Universiti Sultan Azlan Shah, Perak | 2022 - Now
+- Research Assistant at Universiti Malaysia Perlis | 2019 - 2022
+
 
 ### Teaching
 #### Bachelor
