@@ -1,5 +1,5 @@
 # Hi, I’m Masyitah Abu
-## Lecterur | [Freelancer]
+## Lecterur | [Freelancer](https://github.com/masyitah-abu/Portfolio) 
 
 ### Research Interest
 - Artificial Intelligence
