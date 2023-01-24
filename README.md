@@ -35,6 +35,9 @@
 ### [Publication](https://scholar.google.com/citations?user=IOKYoSMAAAAJ&hl=en)
 ### Workshop/Training
 ### Award/Paten
+### Summarisation of my research work
+- Progamming Language
+- Signal Processing/Image Processing/NLP
 
 
 #### CONTACT INFORMATION
