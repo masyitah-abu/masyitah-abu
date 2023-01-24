@@ -28,6 +28,8 @@
 - Mobile Application
 - Introduction Information Technology
 
+#### [Supervision]() 
+
 ### [Publication](https://scholar.google.com/citations?user=IOKYoSMAAAAJ&hl=en)
 
 ### Summarisation of my research work
@@ -37,7 +39,7 @@
 
 #### CONTACT INFORMATION
 
-HERE is my CV if you interested
+[HERE]() is my CV if you interested
 
 
 
