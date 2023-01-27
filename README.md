@@ -5,6 +5,7 @@
 - Artificial Intelligence
 - Machine Learning and Deep Learning
 - Signal, Image & Natural Language Processing
+- Internet of things (arduino/raspberry pi/mobile apps/dekstop apps) 
 
 ### Academic Qualification
 - PhD. In Computer Engineering | 2019 - Ongoing
