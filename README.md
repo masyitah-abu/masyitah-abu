@@ -1,5 +1,5 @@
 # Hi, I’m Masyitah Abu
-## Lecterur | [Researcher](https://github.com/masyitah-abu/Portfolio) 
+## [Researcher](https://github.com/masyitah-abu/Portfolio) 
 
 ### Research Interest
 - Artificial Intelligence
