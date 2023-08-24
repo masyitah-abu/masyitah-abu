@@ -20,9 +20,9 @@
 ### Teaching
 #### Bachelor
 - [Data Structure & Algorithm](https://github.com/masyitah-abu/Data-Structure-and-Algorithm-in-Python)
-- Software Engineering 
-- Embedded systems
-- Distributed Computing
+- Software Engineering
+- [Embedded systems](https://github.com/masyitah-abu/Embedded-System) 
+- [Distributed Computing](https://github.com/masyitah-abu/Distributed-Computing) 
 
 #### Diploma
 - Computer Architecture Design
