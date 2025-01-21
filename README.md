@@ -29,7 +29,7 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 🚀 **Freelance Projects & Research**
-[![ProjectList](https://img.shields.io/badge/Explore-My%20Portfolio-orange?style=for-the-badge&logo=github)](https://github.com/masyitah-abu/Portfolio)  
+[![Project List](https://img.shields.io/badge/Explore-Project%20List-orange?style=for-the-badge&logo=github)](https://github.com/masyitah-abu/Portfolio)  
 
 Explore my freelance work and research contributions. I enjoy collaborating on innovative projects that make an impact.  
 
@@ -45,9 +45,8 @@ Explore my freelance work and research contributions. I enjoy collaborating on i
 
 ## 📫 **Get in Touch**
 Let's collaborate and innovate together!  
-- ✉️ Email: [masyitah_abu@yahoo.com](mailto:masyitah_abu@yahoo.com)  
-- 🌐 Portfolio: [masyitah-abu.github.io](https://github.com/masyitah-abu/Portfolio)  
-- 🐦 LinkedIn: [Working Profile](https://my.linkedin.com/in/masyitah-abu-8177b5149)  
+- ✉️ Email: [masyitah_abu@yahoo.com](mailto:masyitah_abu@yahoo.com)   
+- 🐦 LinkedIn: [Masyitah Abu](https://my.linkedin.com/in/masyitah-abu-8177b5149)  
 - 📚 Google Scholar: [Publication](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID](https://scholar.google.com/citations?user=IOKYoSMAAAAJ&hl=en))  
 
 ---
