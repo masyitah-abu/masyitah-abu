@@ -12,5 +12,3 @@
 - C++
 - Matlab
 - Verilog & VHDL
-
-#### [Google Scholar](https://scholar.google.com/citations?user=IOKYoSMAAAAJ&hl=en)
