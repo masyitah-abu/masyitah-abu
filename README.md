@@ -1,7 +1,6 @@
 # 🌟 Hi, I’m **Masyitah Abu** 🌟  
 ![Profile views](https://komarev.com/ghpvc/?username=masyitah-abu&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/masyitah-abu?style=social)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge)](https://github.com/masyitah-abu/Portfolio)
 
 ---
 
@@ -30,7 +29,7 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 🚀 **Freelance Projects & Research**
-[![Portfolio](https://img.shields.io/badge/Explore-My%20Portfolio-orange?style=for-the-badge&logo=github)](https://github.com/masyitah-abu/Portfolio)  
+[![Project List](https://img.shields.io/badge/Explore-My%20Portfolio-orange?style=for-the-badge&logo=github)](https://github.com/masyitah-abu/Portfolio)  
 
 Explore my freelance work and research contributions. I enjoy collaborating on innovative projects that make an impact.  
 
@@ -48,8 +47,8 @@ Explore my freelance work and research contributions. I enjoy collaborating on i
 Let's collaborate and innovate together!  
 - ✉️ Email: [masyitah_abu@yahoo.com](mailto:masyitah_abu@yahoo.com)  
 - 🌐 Portfolio: [masyitah-abu.github.io](https://github.com/masyitah-abu/Portfolio)  
-- 🐦 LinkedIn: [Masyitah Abu](https://my.linkedin.com/in/masyitah-abu-8177b5149)  
-- 📚 Google Scholar: [Masyitah Abu](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID](https://scholar.google.com/citations?user=IOKYoSMAAAAJ&hl=en))  
+- 🐦 LinkedIn: [Working Profile](https://my.linkedin.com/in/masyitah-abu-8177b5149)  
+- 📚 Google Scholar: [Publication](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID](https://scholar.google.com/citations?user=IOKYoSMAAAAJ&hl=en))  
 
 ---
 
