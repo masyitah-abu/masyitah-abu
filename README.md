@@ -45,7 +45,7 @@ Explore my freelance work and research contributions. I enjoy collaborating on i
 
 ## 📫 **Get in Touch**
 Let's collaborate and innovate together!  
-- ✉️ Email: [masyitah_abu@yahoo.com](mailto:masyitah_abu@yahoo.com)   
+- ✉️ Email: [masyitah_abu@usm.my](mailto:masyitah_abu@usm.my)   
 - 🐦 LinkedIn: [Masyitah Abu](https://my.linkedin.com/in/masyitah-abu-8177b5149)  
 - 📚 Google Scholar: [Publication](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID](https://scholar.google.com/citations?user=IOKYoSMAAAAJ&hl=en))  
 
