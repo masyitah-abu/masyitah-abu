@@ -28,13 +28,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 🚀 **Freelance Projects & Research**
-[![Project List](https://img.shields.io/badge/Explore-Project%20List-orange?style=for-the-badge&logo=github)](https://github.com/masyitah-abu/Portfolio)  
-
-Explore my freelance work and research contributions. I enjoy collaborating on innovative projects that make an impact.  
-
----
-
 ## 📈 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masyitah-abu&show_icons=true&theme=radical" width="400" />
